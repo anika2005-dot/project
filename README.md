@@ -5,11 +5,6 @@ Explore interactive artifacts in a virtual museum environment and learn about hi
 
 ---
 
-## 🚀 Live Demo
-👉 https://nandyaditya974-droid.github.io/heritage-explorer/
-
----
-
 ## ✨ Features
 
 - 🧱 Interactive 3D artifacts (Pottery, Sculpture, Urban Model)
