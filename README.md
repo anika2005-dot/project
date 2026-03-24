@@ -1,4 +1,4 @@
-# 🏛 Heritage Explorer – 3D Virtual Museum
+# 🏛 Heritage Explorer – Virtual Museum
 
 An immersive 3D heritage experience built using Three.js.  
 Explore interactive artifacts in a virtual museum environment and learn about historical inspirations through dynamic UI panels.
